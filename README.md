@@ -50,7 +50,7 @@ Then issue commands:
 
 Those are all of the commands for now.
 
-## TODO
+## To Dos
 
 * ~~Basic key/value storage with strings~~
 * `keys` command
