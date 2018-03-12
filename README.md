@@ -50,7 +50,7 @@ Then issue commands:
 
 Those are all of the commands for now.
 
-## To Dos
+## TODOs
 
 Some things to work on next:
 
