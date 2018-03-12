@@ -1,4 +1,4 @@
-# Regres – A Redis-like Postgres-backed API for Ruby
+# Regres – Simple Redis-like Data Storage on Postgres
 
 A prototype Ruby library for presenting a simple data storage interface (initially just key/value), backed by Postgres and inspired by Redis.
 

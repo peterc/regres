@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Peter Cooper"]
   spec.email         = ["git@peterc.org"]
 
-  spec.summary       = %q{An easy schemaless key/value store based on Postgres.}
+  spec.summary       = %q{Easy schemaless key/value storage on top of Postgres.}
   spec.homepage      = "https://github.com/peterc/regres"
   spec.license       = "MIT"
 
