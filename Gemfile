@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in edm.gemspec
+# Specify the gem's dependencies in regres.gemspec
 gemspec
