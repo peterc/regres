@@ -39,6 +39,8 @@ To connect:
 Or, more elaborately:
 
     db = Regres.new("postgres://user:pass@host:5432/dbname")
+    # ... do stuff ...
+    db.close
 
 *Note: If the `DATABASE_URL` environment variable exists, this will be used if no connection URL is specified. Alternatively, it will default to the current user on `localhost`, as the Pg gem does.*
 

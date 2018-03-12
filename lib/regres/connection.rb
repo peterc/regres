@@ -36,6 +36,6 @@ class Regres
       @connection = PG.connect(options)
     end
 
-    def_delegators :@connection, :query
+    def_delegators :@connection, :query, :close
   end
 end

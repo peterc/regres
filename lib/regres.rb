@@ -24,4 +24,5 @@ class Regres
   end
 
   def_delegators :@table, :get, :set, :del
+  def_delegators :@connection, :close
 end
