@@ -52,6 +52,8 @@ Those are all of the commands for now.
 
 ## To Dos
 
+Some things to work on next:
+
 * ~~Basic key/value storage with strings~~
 * `keys` command
 * `rename` command
